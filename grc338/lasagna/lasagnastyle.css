@@ -1,0 +1,66 @@
+/*CSS DOCUMENT*/
+
+body{
+    background-color: rgb(255,246,225);
+
+}
+
+h1{
+    font-family: sans-serif; 
+    text-transform: uppercase; 
+    font-size: 4em; 
+    text-align: center; 
+    color:rgb(255, 162, 68); 
+}
+
+h2{
+    font-family: serif; 
+    text-align: center; 
+    margin: -1em 0em 2em 0em; 
+    color:rgb(148, 89, 30); 
+}
+
+img {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    div.intro p{
+        font-family:serif; 
+        text-align:center;
+        color:rgb(85, 81, 77); 
+    }
+    
+
+
+div.maincontent{
+        font-family: sans-serif; 
+    
+}
+    
+div.ingredients h3{
+        font-family: serif;
+        font-size:2em;
+        color:rgb(148, 89, 30);
+    margin: 1em 0em 0em 0em;
+        }
+
+div.ingredients li{
+    font-size:0.9em; 
+    margin: 1em 0em 0em 0em; 
+}
+
+div.directions h3{
+        font-family: serif;
+        font-size:2em;  
+        color:rgb(148, 89, 30);   
+    margin: 1em 0em 0em 0em;
+        }
+
+div.directions li{
+    font-size:0.9em; 
+    margin: 1em 0em 0em 0em; 
+}
+    
