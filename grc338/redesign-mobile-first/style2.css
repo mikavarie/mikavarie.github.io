@@ -1,0 +1,212 @@
+body{
+    background-color: floralwhite; 
+    font-family: 'Montserrat'; 
+    text-align: center; 
+}
+
+
+h1{
+    font-family: 'Montserrat', bold 700;
+    font-size: 3em;
+    color: #885314; 
+}
+
+h2{
+    color: #885314;
+}
+
+h3{
+    color: #B99263; 
+}
+
+
+p{
+    margin: 0;
+    padding: 0.2em; 
+    color: black; 
+    line-height: 120%;
+}
+
+a{
+    text-decoration: none; 
+    color: #5691C1; 
+}
+
+img{
+    width: 40%; 
+}
+
+.menulogo{
+    float: left; 
+    width: 40%; 
+}
+ul{
+        list-style-type: none; 
+        display: inline; 
+}
+
+div.contact-section h2{
+    font-size:2em;
+    float: left; 
+    padding: 1em 1em 1em 2.6em; 
+}
+
+div.contact-section h3{
+    position: absolute;
+     margin-top: 5.5em;
+    padding: 1em 1em 1em 4.5em; 
+    text-align: left; 
+}
+
+div.location{
+    margin-top: 8em;
+    padding: 3em 1em 2em 5em; 
+    text-align: left; 
+}
+
+div.location img{
+    float: right; 
+padding: 1em 1em 1em 9em;
+}
+
+div.contact{
+    padding: 1em 4em 10em 5em; 
+    float: right; 
+    text-align: left;
+   margin: 0em 0em 20em 0em; 
+    position: absolute;
+    
+}
+
+div.contact h2{
+    font-size:2em;
+}
+
+
+div.nav img {
+    float: left; 
+    width: 20%; 
+    padding: 1em 1em 1em 1em; 
+}
+.nav{
+    overflow: hidden; 
+    list-style-type: none; 
+}
+
+.nav a{
+    float: left; 
+    color: #2C5F88;  
+    padding: 2.5em 3em 0em 1em; 
+    text-decoration: none; 
+}
+
+.nav a:hover{
+    color: #5691C1;
+}
+
+.nav a.active{
+    color: #2C5F88; 
+}
+
+.nav li{
+        font-size: 0.8em;
+    display; inline-block; 
+    margin-left: auto; 
+    margin-right:auto; 
+    padding: 0.6
+}
+.contact h4{
+    font-size: 1em; 
+    color: #2C5F88;  
+    
+}
+
+p.info-day{
+    font-weight: bold; 
+}
+
+.bagel img{
+    top: 16em;
+    padding: 0em 2em 9em 5em; 
+    position: absolute; 
+    max-width:100%;
+    height:auto;
+
+}
+.button{
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 4em;
+  margin: 1.250em;
+ padding: 1em 1em 1em 1em; 
+      line-height: 80%;
+}
+
+.order {
+    border-radius: 4em;
+    padding: 
+}
+
+div.menu{
+    text-align: left; 
+}
+
+
+.menu h1{
+    text-align: center;
+    clear:both;
+}
+
+.menu p{
+    text-align: left;
+}
+
+
+.menu h4{
+    color: #B99263; 
+}
+.menu h5{
+    margin-top: 0;
+    margin-bottom: 1.5em;
+}
+
+.menu li{
+    width: 45%;
+    display: inline-block;
+    margin-right: auto;
+    margin-bottom: 2em;
+    padding: 0 0.5em;
+    margin-left: auto;
+    justify-content: space-between; 
+    align-content: space-between; 
+}
+
+.menu ul{
+    list-style-type: none; 
+    margin: 0 auto 1em; 
+    padding: 0 0.2em; 
+}
+
+
+p.description{
+    color: #707070; 
+}
+
+p.price{
+    font-weight: bold; 
+}
+
+div.findus li{
+    padding: 2em; 
+}
+div.findus img{
+    width: 20%;
+   align-content:right; 
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
