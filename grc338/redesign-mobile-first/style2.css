@@ -178,7 +178,7 @@ div.menu{
     display: inline-block;
     margin-right: auto;
     margin-bottom: 2em;
-    padding: 0 0.5em;
+    padding: 0em 0.5em 0.5em 0.7em;
     margin-left: auto;
     justify-content: space-between; 
     align-content: space-between; 
