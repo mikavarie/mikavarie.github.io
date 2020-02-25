@@ -64,10 +64,6 @@ div.location{
     text-align: left; 
 }
 
-div.location img{
-    float: right; 
-padding: 1em 1em 1em 9em;
-}
 
 div.contact{
     padding: 1em 4em 10em 5em; 
@@ -150,6 +146,10 @@ p.info-day{
     padding: 
 }
 
+div.bagelpic{
+      margin-top: 34em;
+    margin-bottom: 1.5em;
+}
 div.menu{
     text-align: left; 
 }
@@ -167,10 +167,6 @@ div.menu{
 
 .menu h4{
     color: #B99263; 
-}
-.menu h5{
-    margin-top: 0;
-    margin-bottom: 1.5em;
 }
 
 .menu li{
