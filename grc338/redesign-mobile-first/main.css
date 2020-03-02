@@ -1,0 +1,187 @@
+body{
+    background-color: floralwhite; 
+    font-family: 'Montserrat'; 
+    text-align: left; 
+}
+
+h1{
+    font-family: 'Montserrat', bold 700;
+    font-size: 3em;
+    color: #885314; 
+}
+
+h2{
+    color: #885314;
+}
+
+h3{
+    color: #B99263; 
+}
+
+
+p{
+    margin: 0;
+    padding: 0.2em; 
+    color: black; 
+    line-height: 120%;
+}
+
+a{
+    text-decoration: none; 
+    color: #5691C1; 
+}
+
+.nav{
+    overflow: hidden; 
+    list-style-type: none;
+
+}
+
+.nav a{
+    
+    float: left; 
+    color: #2C5F88;  
+    padding: 1em 2em 0em 2em; 
+        background-color: #fffffff;
+    text-decoration: none; 
+}
+
+.nav a:hover{
+    color: #5691C1;
+}
+
+.nav a.active{
+    color: #2C5F88; 
+}
+
+.nav li{
+    display inline-block; 
+    top: 3em;
+}
+
+
+img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1.5em;
+}
+
+div.homepagebagel img{
+    width: 80%; 
+}
+
+div.introduction{
+    font-size: 0.9em;
+    padding: 1em; 
+    text-align: center; 
+}
+
+
+p.about-text{
+    line-height: 1.5; 
+}
+ul{
+        list-style-type: none; 
+        display: inline; 
+}
+
+
+div.location{
+
+    padding: 3em 0.1em 1em 5em; 
+    text-align: left; 
+}
+
+div.days{
+    font-weight: bold; 
+    
+}
+div.hours{
+    padding: 1em 4em 10em 5em; 
+    float: right; 
+    text-align: left;
+    position: absolute; 
+    
+}
+
+div.contact h2{
+    font-size:2em;
+    padding: 0em 0em 0em 0em; 
+    margin-top: 1.5em;
+}
+
+.contact h4{
+    font-size: 1em; 
+    color: #2C5F88;  
+    
+}
+
+p.info-day{
+    font-weight: bold; 
+}
+
+
+
+.order {
+    border-radius: 4em;
+    padding: 
+}
+
+div.menu{
+    text-align: left; 
+}
+
+
+.menu h1{
+    text-align: center;
+    clear:both;
+}
+
+.menu p{
+    text-align: left;
+}
+
+
+.menu h4{
+    color: #B99263; 
+}
+
+.menu li{
+    width: 45%;
+    display: inline-block;
+    margin-right: auto;
+    margin-bottom: 2em;
+    padding: 0em 0.5em 0.5em 0.7em;
+    margin-left: auto;
+    justify-content: space-between; 
+    align-content: space-between; 
+}
+
+.menu ul{
+    list-style-type: none; 
+    margin: 0 auto 1em; 
+    padding: 0 0.2em; 
+}
+
+
+p.description{
+    color: #707070; 
+}
+
+p.price{
+    font-weight: bold; 
+}
+
+div.findus li{
+    padding: 2em; 
+}
+div.findus img{
+    width: 20%;
+   align-content:right; 
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
