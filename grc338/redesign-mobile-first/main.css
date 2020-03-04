@@ -1,5 +1,5 @@
 body{
-    background-color: floralwhite; 
+    background-color: #FEFAF1; 
     font-family: 'Montserrat'; 
     text-align: left; 
 }
@@ -22,8 +22,8 @@ h3{
 p{
     margin: 0;
     padding: 0.2em; 
-    color: black; 
-    line-height: 120%;
+    color: #000000; 
+    line-height: 140%;
 }
 
 a{
@@ -42,7 +42,6 @@ a{
     float: left; 
     color: #2C5F88;  
     padding: 1em 2em 0em 2em; 
-        background-color: #fffffff;
     text-decoration: none; 
 }
 
@@ -55,33 +54,43 @@ a{
 }
 
 .nav li{
-    display inline-block; 
     top: 3em;
 }
 
 
-img{
-    width: 50%;
+.houseofbagelslogo img{
+    width: 40%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding-top: 1.5em;
 }
 
-div.homepagebagel img{
-    width: 80%; 
+img{
+    width: 70%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%; 
+    height: auto; 
 }
 
-div.introduction{
-    font-size: 0.9em;
-    padding: 1em; 
-    text-align: center; 
+
+.introduction, .about, .orderonline, .findus{
+    font-size: 1em;
+    padding: 1em 1em 1em 4em ; 
+    text-align: left; 
 }
 
-
-p.about-text{
-    line-height: 1.5; 
+.location img{
+    padding: 0em 9em 0em 0em; 
 }
+
+.about img{
+    
+    padding: 0em 9em 0em 0em; 
+}
+
 ul{
         list-style-type: none; 
         display: inline; 
@@ -94,10 +103,11 @@ div.location{
     text-align: left; 
 }
 
-div.days{
-    font-weight: bold; 
+td.days{
+    font-weight: bold;
     
 }
+
 div.hours{
     padding: 1em 4em 10em 5em; 
     float: right; 
@@ -106,10 +116,8 @@ div.hours{
     
 }
 
-div.contact h2{
-    font-size:2em;
-    padding: 0em 0em 0em 0em; 
-    margin-top: 1.5em;
+td.hours{
+        padding: 0em 1.4em 0em 1em; 
 }
 
 .contact h4{
@@ -123,12 +131,6 @@ p.info-day{
 }
 
 
-
-.order {
-    border-radius: 4em;
-    padding: 
-}
-
 div.menu{
     text-align: left; 
 }
@@ -139,49 +141,76 @@ div.menu{
     clear:both;
 }
 
-.menu p{
-    text-align: left;
-}
-
-
-.menu h4{
-    color: #B99263; 
-}
-
-.menu li{
-    width: 45%;
-    display: inline-block;
-    margin-right: auto;
-    margin-bottom: 2em;
-    padding: 0em 0.5em 0.5em 0.7em;
-    margin-left: auto;
-    justify-content: space-between; 
-    align-content: space-between; 
-}
-
-.menu ul{
-    list-style-type: none; 
-    margin: 0 auto 1em; 
-    padding: 0 0.2em; 
-}
-
-
-p.description{
-    color: #707070; 
-}
-
-p.price{
-    font-weight: bold; 
-}
 
 div.findus li{
     padding: 2em; 
 }
 div.findus img{
-    width: 20%;
-   align-content:right; 
+    width: 50%;
     display: inline-block;
-    margin-right: auto;
-    margin-left: auto;
 }
 
+
+p.price{
+    font-weight:500; 
+    padding:1em 0em 1em 0em; 
+}
+
+p.description{
+    padding:0em 0em 1em 0em; 
+    font-size: 0.688em; 
+    color: #707070; 
+}
+
+td.item{
+    padding:0em 0em 1em 0em; 
+    font-weight:800;  
+    color: #B99263;
+}
+
+.bagelsmenu, .schmearmenu, .breakfastmenu, .lunchmenu, .snacksmenu td{
+    padding: 1.5em 1em 1em 1.5em; 
+}
+
+.salads, .bythepound, .pasteries, .drinksmenu td{
+    padding: 1.5em 1em 1em 1.5em; 
+}
+
+.pasteries, .drinksmenu tr{
+    padding: 0em 3em 0em 3em; 
+    align-content: center; 
+}
+
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+}
+div.menu table{
+    border-spacing: 40px; 
+    width:70%; 
+    margin-left:10%; 
+    margin-right:10%;
+}
+
+.menuintro{
+    padding: 1em 1em 1em 4em ; 
+}
+
+div.bagelabout{
+    margin: 0em 0em 0em; 
+    padding: 0em 0em 2em 0em; 
+}
+
+
+@media only screen and (min-width: 25em){
+    .nav a{
+        font-size: 1em; 
+    }
+    
+    .img{
+        max-width:50%;
+    }
+    .menu{
+        font-size: 1em;
+    }
+}
