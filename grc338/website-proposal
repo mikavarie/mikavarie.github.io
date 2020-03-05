@@ -1,0 +1,114 @@
+<!doctype html>  
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link rel="stylesheet" type="text/css" href="https://web.calpoly.edu/~ribeiro/coursematerial/grc338-2192/proposal.css">
+        <title>Mika Arie - Final project proposal</title>
+    </head>
+    <body>
+    
+        <div class="container">
+        
+            <h1>Final project proposal</h1>
+            
+            <h2>Introduction</h2>
+            
+            <p>PRISTIN. Skincare </p>
+            
+            <p>PRISTIN. is a natural, clean skincare company powered by antioxidants and vitamins designed to revitalize and illuminate your skin. The name PRISTIN. was born from combining “prismatic”, described as “radiant and illuminating”, and “elastin”, meaning “supple and refreshed.” Utilizing nature for inspiration, our simplistic plant-based products are the recipe for radiance to keep you glowing every day.</p>
+            
+            <h2>Target audience</h2>
+            
+            <p>The target market is 16-30-year-olds, dominantly females who want an approachable, and clean alternative to skincare. Our audience is for those who wish for transparency on what they put on their skin and clean products. We target teens that want skincare products to reduce acne, maintain clear skin and maintain a youthful complexion as they age to delay the occurrence of wrinkles. Other products would also target mature audiences as they would find our anti-aging and hydrating treatments appealing to maintain bouncy, elastic-skin. Both demographics would be interested in natural, non-toxic ingredients they put on their skin to prevent the use of specific ingredients that cause harmful health effects such as carcinogens, endocrine disruptions, hormone disruptions, and irritations caused by parabens, synthetic fragrance, etc. </p>
+           
+            <p>Our approach to revolutionary formulations of antioxidant and vitamin-rich organic botanicals ensures that every drop rejuvenizes your skin, yielding better results than conventional or natural products. These skincare essentials are clean, clinically validated, cruelty-free, and free of parabens, sulfates, and phthalates, perfect for transforming your skin, leaving your skin supple and radiant. </p>
+            
+            <h2>Comparative analysis</h2>
+            
+            
+            <h3>Herbivore Botanicals  </h3>
+            <p><a href="https://www.herbivorebotanicals.com/">herbivorebotanicals.com</a></p>
+            
+            <img src="herbivore-home.png" alt="Screenshot of the home page of the Herbivore website." title="" />
+            
+            <img src="herbivore-shop.png" alt="Screenshot of the shop page of the Herbivore website." title="" />
+
+            <h3>Glow Recipe </h3>
+           
+            <p><a href="https://www.glowrecipe.com/">glowrecipe.com</a></p>
+            
+            <img src="glowrecipe-home.png" alt="Screenshot of the home page of the Glow Recipe website." title="" />
+            
+            <img src="glowrecipe-shop.png" alt="Screenshot of the shop page of the Glow Recipe website." title="" />
+
+
+            <h3>Saturday Skin </h3>
+           
+            <p><a href="https://saturdayskin.com/">SaturdaySkin.com</a></p>
+            
+            <img src="saturdayskin-home.png" alt="Screenshot of the home page of the Saturday Skin website." title="" />
+            
+            <img src="saturdayskin-shop.png" alt="Screenshot of the shop page of the Saturday Skin website." title="" />
+
+
+            <h2>Website content</h2>
+  
+            <nav> 
+                 <ul>
+                    <li>shop</li>
+                    <li>ingredients</li>
+                    <li>blog</li>
+                    <li>about</li>
+                </ul>
+            </nav>
+            
+                       
+            <section>
+            
+					<h1> PRISTIN. | shop </h1>
+				
+					<p>  Our approach to revolutionary formulations of antioxidant and vitamin-rich organic botanicals ensures that every drop rejuvenizes your skin, yielding better results than conventional or natural products. </p>
+                
+					<p>    [PRISTIN. skincare with antioxidant ingredients] </p>
+				
+            </section>
+            
+                       
+            <section>
+            
+					<h1> PRISTIN. | ingredients </h1>
+				
+					<p>  Formulated with pure, highly concentrated antioxidants, essential vitamins and minerals, botanicals, and fruit concentrate, PRISTIN. combats visible signs of aging, rid of harmful free radicals, and increase hydration for prismatic-looking skin.</p>
+			  
+					<p>    [PRISTIN. model with radiant skin] </p>
+				
+            </section> 
+            
+            
+            <section>
+            
+					<h1> PRISTIN. | blog </h1>
+				
+					<p>  What's the Difference Between Dryness and Dehydration? Amy discusses the differences between dry skin and dehydrated skin, causes, and how to treat them</p>
+			  
+					<p>    [PRISTIN. model with imperfect skin and skincare applied] </p>
+				
+            </section> 
+            
+
+            
+            <section> 
+            
+					<h1> PRISTIN. | about </h1>
+				
+					<p>  PRISTIN, Inc. was founded in 2019 on the belief that to achieve radiant skin, we must give it the best nutrients. With only 30 employees in Los Angeles, CA, PRISTIN. focuses on keeping your skin healthy at an affordable price. Formulated with pure, highly concentrated antioxidants, essential vitamins and minerals, botanicals, and fruit concentrate, PRISTIN. combats visible signs of aging, rid of harmful free radicals, and increase hydration for prismatic-looking skin. </p>
+			  
+					<p>    [PRISTIN. skincare bottle displayed] </p>
+				
+            </section>
+            
+        
+        </div>
+    </body>
+</html>
